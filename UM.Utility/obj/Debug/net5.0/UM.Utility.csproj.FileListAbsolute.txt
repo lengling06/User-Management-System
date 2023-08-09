@@ -1,0 +1,11 @@
+D:\Study\Project\User Management System\UM.Utility\bin\Debug\net5.0\UM.Utility.deps.json
+D:\Study\Project\User Management System\UM.Utility\bin\Debug\net5.0\UM.Utility.dll
+D:\Study\Project\User Management System\UM.Utility\bin\Debug\net5.0\ref\UM.Utility.dll
+D:\Study\Project\User Management System\UM.Utility\bin\Debug\net5.0\UM.Utility.pdb
+D:\Study\Project\User Management System\UM.Utility\obj\Debug\net5.0\UM.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Project\User Management System\UM.Utility\obj\Debug\net5.0\UM.Utility.AssemblyInfoInputs.cache
+D:\Study\Project\User Management System\UM.Utility\obj\Debug\net5.0\UM.Utility.AssemblyInfo.cs
+D:\Study\Project\User Management System\UM.Utility\obj\Debug\net5.0\UM.Utility.csproj.CoreCompileInputs.cache
+D:\Study\Project\User Management System\UM.Utility\obj\Debug\net5.0\UM.Utility.dll
+D:\Study\Project\User Management System\UM.Utility\obj\Debug\net5.0\ref\UM.Utility.dll
+D:\Study\Project\User Management System\UM.Utility\obj\Debug\net5.0\UM.Utility.pdb

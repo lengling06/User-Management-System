@@ -1,0 +1,15 @@
+D:\Study\Project\User Management System\UM.IRepository\bin\Debug\net5.0\UM.IRepository.deps.json
+D:\Study\Project\User Management System\UM.IRepository\bin\Debug\net5.0\UM.IRepository.dll
+D:\Study\Project\User Management System\UM.IRepository\bin\Debug\net5.0\ref\UM.IRepository.dll
+D:\Study\Project\User Management System\UM.IRepository\bin\Debug\net5.0\UM.IRepository.pdb
+D:\Study\Project\User Management System\UM.IRepository\bin\Debug\net5.0\UM.Model.dll
+D:\Study\Project\User Management System\UM.IRepository\bin\Debug\net5.0\UM.Model.pdb
+D:\Study\Project\User Management System\UM.IRepository\obj\Debug\net5.0\UM.IRepository.csproj.AssemblyReference.cache
+D:\Study\Project\User Management System\UM.IRepository\obj\Debug\net5.0\UM.IRepository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Project\User Management System\UM.IRepository\obj\Debug\net5.0\UM.IRepository.AssemblyInfoInputs.cache
+D:\Study\Project\User Management System\UM.IRepository\obj\Debug\net5.0\UM.IRepository.AssemblyInfo.cs
+D:\Study\Project\User Management System\UM.IRepository\obj\Debug\net5.0\UM.IRepository.csproj.CoreCompileInputs.cache
+D:\Study\Project\User Management System\UM.IRepository\obj\Debug\net5.0\UM.IRepository.csproj.CopyComplete
+D:\Study\Project\User Management System\UM.IRepository\obj\Debug\net5.0\UM.IRepository.dll
+D:\Study\Project\User Management System\UM.IRepository\obj\Debug\net5.0\ref\UM.IRepository.dll
+D:\Study\Project\User Management System\UM.IRepository\obj\Debug\net5.0\UM.IRepository.pdb

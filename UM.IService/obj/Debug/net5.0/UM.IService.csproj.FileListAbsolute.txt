@@ -1,0 +1,15 @@
+D:\Study\Project\User Management System\UM.IService\bin\Debug\net5.0\UM.IService.deps.json
+D:\Study\Project\User Management System\UM.IService\bin\Debug\net5.0\UM.IService.dll
+D:\Study\Project\User Management System\UM.IService\bin\Debug\net5.0\ref\UM.IService.dll
+D:\Study\Project\User Management System\UM.IService\bin\Debug\net5.0\UM.IService.pdb
+D:\Study\Project\User Management System\UM.IService\bin\Debug\net5.0\UM.Model.dll
+D:\Study\Project\User Management System\UM.IService\bin\Debug\net5.0\UM.Model.pdb
+D:\Study\Project\User Management System\UM.IService\obj\Debug\net5.0\UM.IService.csproj.AssemblyReference.cache
+D:\Study\Project\User Management System\UM.IService\obj\Debug\net5.0\UM.IService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Project\User Management System\UM.IService\obj\Debug\net5.0\UM.IService.AssemblyInfoInputs.cache
+D:\Study\Project\User Management System\UM.IService\obj\Debug\net5.0\UM.IService.AssemblyInfo.cs
+D:\Study\Project\User Management System\UM.IService\obj\Debug\net5.0\UM.IService.csproj.CoreCompileInputs.cache
+D:\Study\Project\User Management System\UM.IService\obj\Debug\net5.0\UM.IService.csproj.CopyComplete
+D:\Study\Project\User Management System\UM.IService\obj\Debug\net5.0\UM.IService.dll
+D:\Study\Project\User Management System\UM.IService\obj\Debug\net5.0\ref\UM.IService.dll
+D:\Study\Project\User Management System\UM.IService\obj\Debug\net5.0\UM.IService.pdb

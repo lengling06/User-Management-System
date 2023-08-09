@@ -1,0 +1,78 @@
+D:\Study\Project\User Management System\um-asp.net core\bin\Debug\net5.0\appsettings.Development.json
+D:\Study\Project\User Management System\um-asp.net core\bin\Debug\net5.0\appsettings.json
+D:\Study\Project\User Management System\um-asp.net core\bin\Debug\net5.0\um-asp.net core.exe
+D:\Study\Project\User Management System\um-asp.net core\bin\Debug\net5.0\um-asp.net core.deps.json
+D:\Study\Project\User Management System\um-asp.net core\bin\Debug\net5.0\um-asp.net core.runtimeconfig.json
+D:\Study\Project\User Management System\um-asp.net core\bin\Debug\net5.0\um-asp.net core.runtimeconfig.dev.json
+D:\Study\Project\User Management System\um-asp.net core\bin\Debug\net5.0\um-asp.net core.dll
+D:\Study\Project\User Management System\um-asp.net core\bin\Debug\net5.0\ref\um-asp.net core.dll
+D:\Study\Project\User Management System\um-asp.net core\bin\Debug\net5.0\um-asp.net core.pdb
+D:\Study\Project\User Management System\um-asp.net core\bin\Debug\net5.0\Humanizer.dll
+D:\Study\Project\User Management System\um-asp.net core\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Study\Project\User Management System\um-asp.net core\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Study\Project\User Management System\um-asp.net core\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Study\Project\User Management System\um-asp.net core\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Study\Project\User Management System\um-asp.net core\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Study\Project\User Management System\um-asp.net core\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Study\Project\User Management System\um-asp.net core\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Study\Project\User Management System\um-asp.net core\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Study\Project\User Management System\um-asp.net core\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Study\Project\User Management System\um-asp.net core\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Study\Project\User Management System\um-asp.net core\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Study\Project\User Management System\um-asp.net core\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Study\Project\User Management System\um-asp.net core\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Study\Project\User Management System\um-asp.net core\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Study\Project\User Management System\um-asp.net core\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Study\Project\User Management System\um-asp.net core\bin\Debug\net5.0\Pipelines.Sockets.Unofficial.dll
+D:\Study\Project\User Management System\um-asp.net core\bin\Debug\net5.0\StackExchange.Redis.dll
+D:\Study\Project\User Management System\um-asp.net core\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Study\Project\User Management System\um-asp.net core\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Study\Project\User Management System\um-asp.net core\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Study\Project\User Management System\um-asp.net core\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Study\Project\User Management System\um-asp.net core\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Study\Project\User Management System\um-asp.net core\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Study\Project\User Management System\um-asp.net core\bin\Debug\net5.0\System.IO.Pipelines.dll
+D:\Study\Project\User Management System\um-asp.net core\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Study\Project\User Management System\um-asp.net core\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Study\Project\User Management System\um-asp.net core\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Study\Project\User Management System\um-asp.net core\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Study\Project\User Management System\um-asp.net core\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Study\Project\User Management System\um-asp.net core\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Study\Project\User Management System\um-asp.net core\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Study\Project\User Management System\um-asp.net core\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Study\Project\User Management System\um-asp.net core\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Study\Project\User Management System\um-asp.net core\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Study\Project\User Management System\um-asp.net core\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Study\Project\User Management System\um-asp.net core\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Study\Project\User Management System\um-asp.net core\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Study\Project\User Management System\um-asp.net core\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Study\Project\User Management System\um-asp.net core\bin\Debug\net5.0\UM.DataAccess.dll
+D:\Study\Project\User Management System\um-asp.net core\bin\Debug\net5.0\UM.IRepository.dll
+D:\Study\Project\User Management System\um-asp.net core\bin\Debug\net5.0\UM.IService.dll
+D:\Study\Project\User Management System\um-asp.net core\bin\Debug\net5.0\UM.Model.dll
+D:\Study\Project\User Management System\um-asp.net core\bin\Debug\net5.0\UM.Repository.dll
+D:\Study\Project\User Management System\um-asp.net core\bin\Debug\net5.0\UM.Service.dll
+D:\Study\Project\User Management System\um-asp.net core\bin\Debug\net5.0\UM.Utility.dll
+D:\Study\Project\User Management System\um-asp.net core\bin\Debug\net5.0\UM.DataAccess.pdb
+D:\Study\Project\User Management System\um-asp.net core\bin\Debug\net5.0\UM.IRepository.pdb
+D:\Study\Project\User Management System\um-asp.net core\bin\Debug\net5.0\UM.IService.pdb
+D:\Study\Project\User Management System\um-asp.net core\bin\Debug\net5.0\UM.Model.pdb
+D:\Study\Project\User Management System\um-asp.net core\bin\Debug\net5.0\UM.Repository.pdb
+D:\Study\Project\User Management System\um-asp.net core\bin\Debug\net5.0\UM.Service.pdb
+D:\Study\Project\User Management System\um-asp.net core\bin\Debug\net5.0\UM.Utility.pdb
+D:\Study\Project\User Management System\um-asp.net core\obj\Debug\net5.0\um-asp.net core.csproj.AssemblyReference.cache
+D:\Study\Project\User Management System\um-asp.net core\obj\Debug\net5.0\um-asp.net core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Project\User Management System\um-asp.net core\obj\Debug\net5.0\um-asp.net core.AssemblyInfoInputs.cache
+D:\Study\Project\User Management System\um-asp.net core\obj\Debug\net5.0\um-asp.net core.AssemblyInfo.cs
+D:\Study\Project\User Management System\um-asp.net core\obj\Debug\net5.0\um-asp.net core.csproj.CoreCompileInputs.cache
+D:\Study\Project\User Management System\um-asp.net core\obj\Debug\net5.0\um-asp.net core.MvcApplicationPartsAssemblyInfo.cs
+D:\Study\Project\User Management System\um-asp.net core\obj\Debug\net5.0\um-asp.net core.MvcApplicationPartsAssemblyInfo.cache
+D:\Study\Project\User Management System\um-asp.net core\obj\Debug\net5.0\staticwebassets\um-asp.net core.StaticWebAssets.Manifest.cache
+D:\Study\Project\User Management System\um-asp.net core\obj\Debug\net5.0\staticwebassets\um-asp.net core.StaticWebAssets.xml
+D:\Study\Project\User Management System\um-asp.net core\obj\Debug\net5.0\scopedcss\bundle\um-asp.net core.styles.css
+D:\Study\Project\User Management System\um-asp.net core\obj\Debug\net5.0\um-asp.net core.RazorTargetAssemblyInfo.cache
+D:\Study\Project\User Management System\um-asp.net core\obj\Debug\net5.0\um-asp.net core.csproj.CopyComplete
+D:\Study\Project\User Management System\um-asp.net core\obj\Debug\net5.0\um-asp.net core.dll
+D:\Study\Project\User Management System\um-asp.net core\obj\Debug\net5.0\ref\um-asp.net core.dll
+D:\Study\Project\User Management System\um-asp.net core\obj\Debug\net5.0\um-asp.net core.pdb
+D:\Study\Project\User Management System\um-asp.net core\obj\Debug\net5.0\um-asp.net core.genruntimeconfig.cache
