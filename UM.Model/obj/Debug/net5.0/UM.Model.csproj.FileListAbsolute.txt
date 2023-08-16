@@ -9,3 +9,7 @@ D:\Study\Project\User Management System\UM.Model\obj\Debug\net5.0\UM.Model.cspro
 D:\Study\Project\User Management System\UM.Model\obj\Debug\net5.0\UM.Model.dll
 D:\Study\Project\User Management System\UM.Model\obj\Debug\net5.0\ref\UM.Model.dll
 D:\Study\Project\User Management System\UM.Model\obj\Debug\net5.0\UM.Model.pdb
+<<<<<<< HEAD
+=======
+D:\Study\Project\User Management System\UM.Model\obj\Debug\net5.0\UM.Model.csproj.AssemblyReference.cache
+>>>>>>> test
